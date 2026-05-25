@@ -30,3 +30,8 @@ how production AI agents work.
   delays between calls to handle this gracefully.
 - **Inconsistent response formats** — Gemini 2.5 returns content as either a 
   plain string or a list of typed blocks. Wrote defensive parsing to handle both.
+
+## Setup
+1. Get a free API key from [Google AI Studio](https://aistudio.google.com)
+2. Replace `your_api_key_here` in Cell 2 with your key
+3. Run all cells in order
